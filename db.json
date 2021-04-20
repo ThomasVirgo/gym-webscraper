@@ -1619,6 +1619,38 @@
     {
       "value": 45,
       "date": "Tue Apr 20 2021 09:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Tue Apr 20 2021 09:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Tue Apr 20 2021 09:45:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Tue Apr 20 2021 09:50:26 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Tue Apr 20 2021 09:55:08 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Tue Apr 20 2021 10:00:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Tue Apr 20 2021 10:05:11 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Tue Apr 20 2021 10:10:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 48,
+      "date": "Tue Apr 20 2021 10:15:04 GMT+0100 (British Summer Time)"
     }
   ]
 }
