@@ -12,11 +12,16 @@ console.log(__dirname);
 const app = express();
 const PORT = process.env.PORT || 3000;
 const idxPath = __dirname + '/views/index.html';
+const trackerPath = __dirname + '/views/tracker.html';
 
 app.use(express.static('lib'));
 
 app.get('/', (req,res)=>{
     res.sendFile(idxPath);
+});
+
+app.get('/tracker', (req,res)=>{
+    res.sendFile(trackerPath);
 });
 
 app.get('/data', (req,res)=>{
