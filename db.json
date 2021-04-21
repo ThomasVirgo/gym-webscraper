@@ -2139,6 +2139,806 @@
     {
       "value": 81,
       "date": "Tue Apr 20 2021 20:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 80,
+      "date": "Tue Apr 20 2021 20:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 73,
+      "date": "Tue Apr 20 2021 20:45:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 20:50:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 20:55:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 71,
+      "date": "Tue Apr 20 2021 21:00:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 21:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 76,
+      "date": "Tue Apr 20 2021 21:10:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 75,
+      "date": "Tue Apr 20 2021 21:15:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 76,
+      "date": "Tue Apr 20 2021 21:20:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 21:25:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 21:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 77,
+      "date": "Tue Apr 20 2021 21:35:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 76,
+      "date": "Tue Apr 20 2021 21:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 76,
+      "date": "Tue Apr 20 2021 21:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 21:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 76,
+      "date": "Tue Apr 20 2021 21:55:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Tue Apr 20 2021 22:00:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 72,
+      "date": "Tue Apr 20 2021 22:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 70,
+      "date": "Tue Apr 20 2021 22:10:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 56,
+      "date": "Tue Apr 20 2021 22:30:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 58,
+      "date": "Tue Apr 20 2021 22:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 55,
+      "date": "Tue Apr 20 2021 22:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Tue Apr 20 2021 22:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 49,
+      "date": "Tue Apr 20 2021 22:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Tue Apr 20 2021 22:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Tue Apr 20 2021 23:00:08 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Tue Apr 20 2021 23:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 41,
+      "date": "Tue Apr 20 2021 23:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 36,
+      "date": "Tue Apr 20 2021 23:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 36,
+      "date": "Tue Apr 20 2021 23:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 35,
+      "date": "Tue Apr 20 2021 23:25:09 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 32,
+      "date": "Tue Apr 20 2021 23:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 28,
+      "date": "Tue Apr 20 2021 23:35:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 29,
+      "date": "Tue Apr 20 2021 23:40:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 31,
+      "date": "Tue Apr 20 2021 23:45:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 32,
+      "date": "Tue Apr 20 2021 23:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 30,
+      "date": "Tue Apr 20 2021 23:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 37,
+      "date": "Wed Apr 21 2021 00:00:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 37,
+      "date": "Wed Apr 21 2021 00:05:08 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 37,
+      "date": "Wed Apr 21 2021 00:10:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 24,
+      "date": "Wed Apr 21 2021 01:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 24,
+      "date": "Wed Apr 21 2021 01:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 18,
+      "date": "Wed Apr 21 2021 01:50:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 14,
+      "date": "Wed Apr 21 2021 01:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 15,
+      "date": "Wed Apr 21 2021 02:00:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 14,
+      "date": "Wed Apr 21 2021 02:05:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 13,
+      "date": "Wed Apr 21 2021 02:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 12,
+      "date": "Wed Apr 21 2021 02:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 11,
+      "date": "Wed Apr 21 2021 02:20:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 11,
+      "date": "Wed Apr 21 2021 02:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 9,
+      "date": "Wed Apr 21 2021 02:35:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 6,
+      "date": "Wed Apr 21 2021 02:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 5,
+      "date": "Wed Apr 21 2021 02:45:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 5,
+      "date": "Wed Apr 21 2021 02:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 4,
+      "date": "Wed Apr 21 2021 02:55:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 4,
+      "date": "Wed Apr 21 2021 03:00:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 4,
+      "date": "Wed Apr 21 2021 03:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 4,
+      "date": "Wed Apr 21 2021 03:10:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:15:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:25:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 1,
+      "date": "Wed Apr 21 2021 03:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 03:55:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 04:00:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 04:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 04:10:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 04:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 3,
+      "date": "Wed Apr 21 2021 04:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 2,
+      "date": "Wed Apr 21 2021 04:25:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 3,
+      "date": "Wed Apr 21 2021 04:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 3,
+      "date": "Wed Apr 21 2021 04:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 4,
+      "date": "Wed Apr 21 2021 04:40:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 4,
+      "date": "Wed Apr 21 2021 04:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 5,
+      "date": "Wed Apr 21 2021 04:50:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 5,
+      "date": "Wed Apr 21 2021 04:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 5,
+      "date": "Wed Apr 21 2021 05:00:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 6,
+      "date": "Wed Apr 21 2021 05:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 7,
+      "date": "Wed Apr 21 2021 05:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 7,
+      "date": "Wed Apr 21 2021 05:20:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 7,
+      "date": "Wed Apr 21 2021 05:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 7,
+      "date": "Wed Apr 21 2021 05:30:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 8,
+      "date": "Wed Apr 21 2021 05:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 11,
+      "date": "Wed Apr 21 2021 05:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 11,
+      "date": "Wed Apr 21 2021 05:45:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 12,
+      "date": "Wed Apr 21 2021 05:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 14,
+      "date": "Wed Apr 21 2021 05:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 18,
+      "date": "Wed Apr 21 2021 06:00:09 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 21,
+      "date": "Wed Apr 21 2021 06:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 23,
+      "date": "Wed Apr 21 2021 06:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 24,
+      "date": "Wed Apr 21 2021 06:15:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 28,
+      "date": "Wed Apr 21 2021 06:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 34,
+      "date": "Wed Apr 21 2021 06:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 38,
+      "date": "Wed Apr 21 2021 06:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 42,
+      "date": "Wed Apr 21 2021 06:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 06:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 48,
+      "date": "Wed Apr 21 2021 06:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Wed Apr 21 2021 06:50:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 53,
+      "date": "Wed Apr 21 2021 06:55:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 58,
+      "date": "Wed Apr 21 2021 07:00:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 60,
+      "date": "Wed Apr 21 2021 07:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 60,
+      "date": "Wed Apr 21 2021 07:10:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 65,
+      "date": "Wed Apr 21 2021 07:15:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 69,
+      "date": "Wed Apr 21 2021 07:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 72,
+      "date": "Wed Apr 21 2021 07:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 77,
+      "date": "Wed Apr 21 2021 07:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 76,
+      "date": "Wed Apr 21 2021 07:35:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 79,
+      "date": "Wed Apr 21 2021 07:40:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 82,
+      "date": "Wed Apr 21 2021 07:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 81,
+      "date": "Wed Apr 21 2021 07:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 72,
+      "date": "Wed Apr 21 2021 07:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 74,
+      "date": "Wed Apr 21 2021 08:00:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 72,
+      "date": "Wed Apr 21 2021 08:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 73,
+      "date": "Wed Apr 21 2021 08:10:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 64,
+      "date": "Wed Apr 21 2021 08:15:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 55,
+      "date": "Wed Apr 21 2021 08:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 53,
+      "date": "Wed Apr 21 2021 08:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 08:30:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 49,
+      "date": "Wed Apr 21 2021 08:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 08:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 08:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 47,
+      "date": "Wed Apr 21 2021 08:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 08:55:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 09:00:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 09:05:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 09:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 09:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 09:20:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 09:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 09:30:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 09:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 09:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 09:45:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 43,
+      "date": "Wed Apr 21 2021 09:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 43,
+      "date": "Wed Apr 21 2021 09:55:18 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 41,
+      "date": "Wed Apr 21 2021 10:00:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 10:05:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 10:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 10:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 10:20:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 47,
+      "date": "Wed Apr 21 2021 10:25:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Wed Apr 21 2021 10:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 10:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 47,
+      "date": "Wed Apr 21 2021 10:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 10:45:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 10:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Wed Apr 21 2021 10:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Wed Apr 21 2021 11:00:11 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 48,
+      "date": "Wed Apr 21 2021 11:05:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 48,
+      "date": "Wed Apr 21 2021 11:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 49,
+      "date": "Wed Apr 21 2021 11:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 11:20:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 11:25:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 48,
+      "date": "Wed Apr 21 2021 11:30:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 11:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 11:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 11:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 56,
+      "date": "Wed Apr 21 2021 11:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 49,
+      "date": "Wed Apr 21 2021 11:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 52,
+      "date": "Wed Apr 21 2021 12:00:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Wed Apr 21 2021 12:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 55,
+      "date": "Wed Apr 21 2021 12:10:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 53,
+      "date": "Wed Apr 21 2021 12:15:07 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 55,
+      "date": "Wed Apr 21 2021 12:20:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 59,
+      "date": "Wed Apr 21 2021 12:25:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 58,
+      "date": "Wed Apr 21 2021 12:30:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 59,
+      "date": "Wed Apr 21 2021 12:35:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 57,
+      "date": "Wed Apr 21 2021 12:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 60,
+      "date": "Wed Apr 21 2021 12:45:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 66,
+      "date": "Wed Apr 21 2021 12:50:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 69,
+      "date": "Wed Apr 21 2021 12:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 73,
+      "date": "Wed Apr 21 2021 13:00:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 71,
+      "date": "Wed Apr 21 2021 13:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 69,
+      "date": "Wed Apr 21 2021 13:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 65,
+      "date": "Wed Apr 21 2021 13:15:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 65,
+      "date": "Wed Apr 21 2021 13:20:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 59,
+      "date": "Wed Apr 21 2021 13:25:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 56,
+      "date": "Wed Apr 21 2021 13:30:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 13:35:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 43,
+      "date": "Wed Apr 21 2021 13:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 13:45:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 13:50:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 13:55:03 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 14:00:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 14:05:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 48,
+      "date": "Wed Apr 21 2021 14:10:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 14:15:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 44,
+      "date": "Wed Apr 21 2021 14:20:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 45,
+      "date": "Wed Apr 21 2021 14:25:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 46,
+      "date": "Wed Apr 21 2021 14:30:06 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 47,
+      "date": "Wed Apr 21 2021 14:35:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 14:40:04 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 51,
+      "date": "Wed Apr 21 2021 14:45:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 52,
+      "date": "Wed Apr 21 2021 14:50:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 14:55:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 49,
+      "date": "Wed Apr 21 2021 15:00:05 GMT+0100 (British Summer Time)"
+    },
+    {
+      "value": 50,
+      "date": "Wed Apr 21 2021 15:05:04 GMT+0100 (British Summer Time)"
     }
   ]
 }
