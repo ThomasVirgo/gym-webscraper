@@ -3,6 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import getData from './lib/getData.js';
 import './lib/cron.js';
+//import bodyParser from 'body-parser';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -13,6 +14,9 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const idxPath = __dirname + '/views/index.html';
 const trackerPath = __dirname + '/views/tracker.html';
+
+app.use(express.urlencoded({extended:false}));
+app.use(express.json());
 
 app.use(express.static('lib'));
 
@@ -27,6 +31,12 @@ app.get('/tracker', (req,res)=>{
 app.get('/data', (req,res)=>{
     let data = getData();
     res.json(data);
+})
+
+app.post('/add', (req,res)=>{
+    console.log(req.body.session)
+    console.log(req.body.reps)
+    res.sendFile(trackerPath)
 })
 
 app.listen(PORT, ()=>{console.log(`Server is running. Listening on ${PORT}`)});
